@@ -1,0 +1,11 @@
+[2022-04-03 20:42:01] Start:GraphMergeTask
+GraphMerge 10.0.0 (Build:f8fa7a1c28) - (C) 2001-2021 FrontEndART Ltd.
+Integrated 3rd party tool(s): SonarQube
+Loading: D:\GitRepos\2022SourceMeter-CasadoCristianDavid\results\V2\java\2022-04-03-20-40-54\sourcemeter\graph\V2-AndroidHunter.graph
+Merging: D:\GitRepos\2022SourceMeter-CasadoCristianDavid\results\V2\java\2022-04-03-20-40-54\sourcemeter\graph\V2-DCF.graph
+Merging: D:\GitRepos\2022SourceMeter-CasadoCristianDavid\results\V2\java\2022-04-03-20-40-54\sourcemeter\graph\V2-FaultHunter.graph
+Merging: D:\GitRepos\2022SourceMeter-CasadoCristianDavid\results\V2\java\2022-04-03-20-40-54\sourcemeter\graph\V2-PMD.graph
+Merging: D:\GitRepos\2022SourceMeter-CasadoCristianDavid\results\V2\java\2022-04-03-20-40-54\sourcemeter\graph\V2-RTEHunter.graph
+Merging: D:\GitRepos\2022SourceMeter-CasadoCristianDavid\results\V2\java\2022-04-03-20-40-54\sourcemeter\graph\V2-metrics.graph
+Saving: D:\GitRepos\2022SourceMeter-CasadoCristianDavid\results\V2\java\2022-04-03-20-40-54\V2.graph
+[2022-04-03 20:42:05] End:GraphMergeTask Result:OK

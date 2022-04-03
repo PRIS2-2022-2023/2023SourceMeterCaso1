@@ -1,0 +1,12 @@
+[2022-04-03 20:41:46] Start:Lim2metricsTask
+LIM2Metrics 10.0.0 Java (Build:f8fa7a1c28) - (C) 2001-2021 FrontEndART Ltd.
+Integrated 3rd party tool(s): SonarQube
+Saving graph to D:\GitRepos\2022SourceMeter-CasadoCristianDavid\results\V2\java\2022-04-03-20-40-54\sourcemeter\graph\V2-metrics.graph
+Exporting rul
+
+Statistics:
+	Calculation time         :       2.13s
+	Export time              :       0.18s
+	Total time               :       3.00s
+	Peak memory usage        :     198.10MB
+[2022-04-03 20:41:49] End:Lim2metricsTask Result:OK

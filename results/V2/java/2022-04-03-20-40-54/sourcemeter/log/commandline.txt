@@ -1,0 +1,4 @@
+E:\descargas\SourceMeter-10.0.0-x64-Windows\Java\SourceMeterJava.exe
+-projectName=V2
+-projectBaseDir=junit5-r5.8.1
+-resultsDir=results
